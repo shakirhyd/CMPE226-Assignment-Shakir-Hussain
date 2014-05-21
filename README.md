@@ -11,6 +11,8 @@ Note: Do note that Kibana search uses the data from ElasticSearch database, henc
 
 To use the Search page in my webapp, you will have to download and install ElasticSearch and Kibana. 
 
-For implementation details and screenshots, refer to the ShakirMongoCatalog Implementation.docx file.
+I have uploaded a few documents in the folder - ReadMe, which will provide context and understanding of the implementation. 
+
+For webapp/search implementation details and screenshots, refer to the ShakirMongoCatalog Implementation.docx file.
 
 I have also added a saved Dashboard file for Kibana - Appliance Catalog Search-1400624535777. You can load this file from the Kibana dashboard.
