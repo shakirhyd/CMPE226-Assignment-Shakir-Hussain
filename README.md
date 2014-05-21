@@ -3,6 +3,8 @@ ShakirMongoCatalog
 
 CMPE 226 Mongo DB Assignment.
 
+Please refer to the  ShakirMongoCatalog Implementation.docx file in the folder - ReadMe, which will provide context and understanding of the implementation. 
+
 This project is part of an assignment in the course - CMPE 226 in San Jose State University towards fulfilling the requirements of Masters in Software Engineering. 
 
 This assignment is an implementation of a Appliance Catalog Webapp based on MongoDB datastore. I have used JSP pages to render UI while connecting to local MongoDB datastore that stores products in JSON documents. I have also implemented a search functionality using ElasticSearch and Kibana dashboard. Kibana dashboard has been embedded in the Webapp as a separate JSP.
